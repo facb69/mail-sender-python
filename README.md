@@ -25,7 +25,7 @@ You are responsible for your data and system. In doubt, do not nothing! 😇
 
 # Contribute
 
-Pull requests are welcome. Open an 'issue' first to discuss what you would like to change
+Pull requests are welcome. Open an <i>issue</i> first to discuss what you would like to change
 
 # Developer
 
