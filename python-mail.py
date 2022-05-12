@@ -1,4 +1,8 @@
 #!/usr/bin/env python3.8
+#
+# Author: Fabio Bastos
+# Date: 2022-05-12
+# 
 
 import subprocess
 import os
