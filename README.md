@@ -36,4 +36,5 @@ Pull requests are welcome. Open an 'issue' first to discuss what you would like 
 # Developer
 
 Fabio Bastos
+
 Linkedin: https://www.linkedin.com/in/facb69/
