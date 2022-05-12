@@ -2,7 +2,8 @@
 #
 # Author: Fabio Bastos
 # Date: 2022-05-12
-# 
+# Purpose: A simple script to send e-mail messages
+#
 
 import subprocess
 import os
