@@ -31,4 +31,4 @@ Pull requests are welcome. Open an <i>issue</i> first to discuss what you would 
 
 Fabio Bastos
 
-Linkedin: <a target="_blanck" title="Fabio Bastos Linkedin">https://www.linkedin.com/in/facb69/</a>
+<a style='text-decoration: none;' title='Fabio Bastos Linkedin' href='https://www.linkedin.com/in/facb69/' target='_blank'> Fabio Bastos at Linkedin  </a>
