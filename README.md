@@ -1,5 +1,5 @@
 # python-mail
-My first Python script. It sends e-mail messages with HTML/CSS and is highly customized.
+My first Python script. It sends e-mail messages with HTML/CSS and is highly customizable.
 
 WHAT YOU NEED
 
@@ -17,7 +17,11 @@ WHAT YOU MUST DO
 
 Before using it, you must customized it! Fill in with your own e-mail credentials and make it static or pass them as parameters.
 
+WARNING
+
+If you pass a password as paremeter on the command line it will be registered in your user bash history. I didn't deal with security here since I developed this as a private project that runs on a controlled environment where only I has access.
+
 REMINDER
 
-This is a work in progress. I'm changing it as my Python knowledge gets greater.
+You are responsible for your data and system. In doubt, do not nothing! 😇
 
