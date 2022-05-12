@@ -31,4 +31,4 @@ Pull requests are welcome. Open an <i>issue</i> first to discuss what you would 
 
 Fabio Bastos
 
-Linkedin: https://www.linkedin.com/in/facb69/
+Linkedin: <a target="_blanck" title="Fabio Bastos Linkedin">https://www.linkedin.com/in/facb69/</a>
