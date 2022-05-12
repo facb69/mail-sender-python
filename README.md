@@ -17,7 +17,10 @@ Before using it, you must customized it! Fill in with your own e-mail credential
 
 # How you run it on command line
 
-Just make it executable and run like this ./python-mail.py (without parameters) or ./python.py "youremail" "yourpassword" "destionationmail"
+Just make it executable and run like this:
+
+1) Without parameters: <i> ./python-mail.py </i>
+2) With parameters: <i> ./python-mail.py "youremail" "yourpassword" "destionationmail" </i>
 
 # Warning!
 
