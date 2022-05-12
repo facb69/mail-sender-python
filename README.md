@@ -28,7 +28,7 @@ If you pass a password as paremeter on the command line it will be registered in
 
 # Reminder
 
-You are responsible for your data and system. In doubt, do not nothing! 😇
+You are responsible for your data and system. In doubt, do nothing! 😇
 
 # Contribute
 
