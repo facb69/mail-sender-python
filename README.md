@@ -23,7 +23,7 @@ Before using it, you must customized it! Fill in with your own e-mail credential
 
 # WARNING
 
-If you pass a password as paremeter on the command line it will be registered in your user bash history. I didn't deal with security here since I developed this as a private project that runs on a controlled environment where only I has access.
+If you pass a password as paremeter on the command line it will be registered in your user bash history. I didn't deal with security here since I developed this as a private project that runs on a controlled environment where only I have access.
 
 # REMINDER
 
