@@ -19,5 +19,5 @@ Before using it, you must customized it! Fill in with your own e-mail credential
 
 REMINDER
 
-This is a work in progress. I'm changing as my Python knowledge gets greater.
+This is a work in progress. I'm changing it as my Python knowledge gets greater.
 
