@@ -13,7 +13,8 @@ from email.mime.multipart import MIMEMultipart
 #password = "yourpassword"
 #receiver_email = "receiveremail@anohterdomain.com"
 
-# IF YOU WANT THIS SCRIPT NOT TO BE STATIC PASS THE INFO AS PARAMETERS
+# IF YOU WANT THIS SCRIPT NOT TO BE STATIC PASS THE INFO AS PARAMETERS ON THE COMMAND LINE
+# WARNING! THE PASSWORD WILL BE IN CLEAR TEXT AND IT WILL REMAIN IN USER'S BASH HISTORY
 sender_email = sys.argv[1]
 password = sys.argv[2]
 receiver_email = sys.argv[3]
