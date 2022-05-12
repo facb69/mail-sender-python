@@ -31,4 +31,5 @@ Pull requests are welcome. Open an <i>issue</i> first to discuss what you would 
 
 Fabio Bastos
 
-<a style='text-decoration: none;' title='Fabio Bastos Linkedin' href='https://www.linkedin.com/in/facb69/' target='_blank'> Fabio Bastos at Linkedin  </a>
+ <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a> 
+<a style='text-decoration: none;' title='Fabio Bastos Linkedin' href='https://www.linkedin.com/in/facb69/' target='_blank'>Meet me at Linkedin </a>
