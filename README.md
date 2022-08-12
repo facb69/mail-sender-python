@@ -24,7 +24,7 @@ Just make it executable and run like this:
 
 # Warning!
 
-If you pass a password as paremeter on the command line it will be registered in your user bash history. I didn't deal with security here since I developed this as a private project that runs on a controlled environment where only I have access.
+If you pass a password as paremeter on the command line it will be registered in your user bash history. I didn't deal with security here because I developed this as a private project that runs on a controlled environment where only I have access.
 
 # Reminder
 
