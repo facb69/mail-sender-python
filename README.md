@@ -37,5 +37,5 @@ Pull requests are welcome. Open an <i>issue</i> first to discuss what you would 
 # Developer
 
 Fabio Bastos
- 
-<a style='text-decoration: none;' title='Fabio Bastos Linkedin' href='https://www.linkedin.com/in/facb69/' target='_blank'>Meet me at Linkedin </a>
+
+<p><span style="font-size: 10pt; color: #666699;"><strong><span style="text-decoration: none; font-family: times new roman, times, serif;"><a style="color: #666699; text-decoration: none;" title="F&aacute;bio Bastos at Linkedin" href="https://linkedin.com/in/facb69" target="_blank" rel="noopener noreferrer">Linkedin</a> | <span style="color: #666699;"><a style="color: #666699; text-decoration: none;" title="FACB69 Matrix Room" href="https://matrix.to/#/#facb69:chat.facb69.tec.br" target="_blank" rel="noopener noreferrer">Matrix </a>| </span></span></strong><strong><span style="text-decoration: none; font-family: times new roman, times, serif;"><a style="color: #666699; text-decoration: none;" title="F&aacute;bio Bastos at Whats App" href="https://linkwhats.app/8e6edd" target="_blank" rel="noopener noreferrer">WhatsApp</a></span></strong></span></p>
