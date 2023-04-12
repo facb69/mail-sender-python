@@ -5,7 +5,7 @@ This was created as a single script. You'll need only a Linux environment with P
 
 # What this script does
 
-It sends e-mail messages! To wherever you want from wherever you want.
+It sends e-mail messages! To whoever you want from wherever you want.
 
 # How you use it
 
