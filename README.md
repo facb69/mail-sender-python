@@ -38,4 +38,4 @@ Pull requests are welcome. Open an <i>issue</i> first to discuss what you would 
 
 Fabio Bastos
 
-<p><span style="font-size: 10pt; color: #666699;"><strong><span style="text-decoration: none; font-family: times new roman, times, serif;"><a style="color: #666699; text-decoration: none;" title="F&aacute;bio Bastos at Linkedin" href="https://linkedin.com/in/facb69" target="_blank" rel="noopener noreferrer">Linkedin</a> | <span style="color: #666699;"><a style="color: #666699; text-decoration: none;" title="FACB69 Matrix Room" href="https://app.nitro.chat/#/room/#facb69:nitro.chat" target="_blank" rel="noopener noreferrer">Matrix </a>
+<p><span style="font-size: 10pt; color: #666699;"><strong><span style="text-decoration: none; font-family: times new roman, times, serif;"><a style="color: #666699; text-decoration: none;" title="F&aacute;bio Bastos at Linkedin" href="https://linkedin.com/in/facb69" target="_blank" rel="noopener noreferrer">Linkedin</a> | <span style="color: #666699;"><a style="color: #666699; text-decoration: none;" title="FACB69 Matrix Room" href="https://matrix.to/#/#talk:chat.facb69.tec.br" target="_blank" rel="noopener noreferrer">Matrix </a>
